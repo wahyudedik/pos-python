@@ -1,0 +1,16 @@
+LAPORAN PENJUALAN POS
+Periode: Tue Nov 4 2025 s/d Thu Dec 4 2025
+
+PENJUALAN HARIAN
+Tanggal,Transaksi,Penjualan,Diskon,Pajak,Bersih
+03-12-2025,4,"Rp 105,600",Rp 0,"Rp 9,600","Rp 105,600"
+
+METODE PEMBAYARAN
+Metode,Transaksi,Total,Persentase
+Tunai,4,"Rp 105,600",100.0%
+
+RINGKASAN
+Total Transaksi: Check Reports tab
+Total Penjualan: Check Reports tab
+Total Diskon: Check Reports tab
+Total Pajak: Check Reports tab
